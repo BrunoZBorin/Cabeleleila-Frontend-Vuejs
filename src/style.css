@@ -1,0 +1,71 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: linear-gradient(to right, rgb(233, 11, 140), rgb(143, 71, 161), rgb(44, 83, 100));
+    color: #FFF;
+    font-size: 1.8rem;
+}
+
+#form-cadastro {
+    min-width: 100vh;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin: 0px;
+    font-family: Ubuntu-Regular;
+    color: #FFF;
+}
+
+p {
+	font-family: Ubuntu-Regular;
+	font-size: 20px;
+	line-height: 1.7;
+	color: #fff;
+	margin: 0px;
+}
+
+span{
+    font-family: Ubuntu-Regular;
+	font-size: 26px;
+	color: #fff;
+
+}
+
+.select{
+    color: #666666;
+    font-size: 22px;  
+}
+
+ul, li {
+	margin: 0px;
+	list-style-type: none;
+}
+
+#login {
+    min-width: 60vh;
+}
+
+#link{
+    font-family: Ubuntu-Regular;
+	font-size: 20px;
+	color: #fff;
+}
+
+[label-form]{
+    font-family: Ubuntu-Regular;
+	font-size: 20px;
+	color: #666666;
+}
+
+.card-attendance{
+    font-family: Ubuntu-Regular;
+	font-size: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+b-jumbotron{
+    background-color: rgb(226, 19, 174);
+}
